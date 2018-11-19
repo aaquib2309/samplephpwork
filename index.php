@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Developing my first devops project </h1>
+<h1>Doing my AWS devops first project  </h1>
 
 <?php
 echo "Version: v2.0";
